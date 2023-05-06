@@ -1,6 +1,6 @@
 # Sample workflow for building and deploying a Jekyll site to GitHub Pages
-name: Deploy Jekyll with GitHub Pages dependencies preinstalled
-
+name: 1-2 ePortfolio Theme Selection
+theme: Leap day
 on:
   # Runs on pushes targeting the default branch
   push:
