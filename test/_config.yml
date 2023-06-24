@@ -91,7 +91,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Oluwasegun Olagoroye"
   avatar           : "/assets/images/bio-photo.jpg"
   bio              : "I am an **amazing** person."
   location         : "Somewhere"
@@ -113,16 +113,10 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
+    - label: "CS499"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
-
+    
 
 # Reading Files
 include:
